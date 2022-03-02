@@ -339,11 +339,11 @@ main {
 }
 
 .cursos_intensivos h3::before {
-  background: url(cursos.svg) no-repeat center center;
+  background: url(img/cursos.svg) no-repeat center center;
 }
 
 .idiomas h3::before {
-  background: url(idiomas.svg) no-repeat center center;
+  background: url(img/idiomas.svg) no-repeat center center;
 }
 
 .cursos_intensivos li {
